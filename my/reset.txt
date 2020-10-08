@@ -1,0 +1,3 @@
+USE mysql;
+UPDATE msql.user SET Password = PASSWORD('') Where User = 'root';
+FLUSH PRIVILAGES:

@@ -1,0 +1,9 @@
+Abstract and keyword
+introduction - Arduino/ATmega328/temperature sensor
+existing methods
+proposed System
+Working
+Future Scope
+Application
+Result and Conclusoin
+Citation
